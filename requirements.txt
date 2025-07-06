@@ -1,5 +1,0 @@
-httpx
-pycryptodome
-flask
-protobuf
-request
